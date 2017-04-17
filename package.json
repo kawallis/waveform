@@ -1,0 +1,25 @@
+{
+  "name": "music_chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "chart.js": "^2.5.0",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawallis/Musi.cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawallis/Musi.cart/issues"
+  },
+  "homepage": "https://github.com/kawallis/Musi.cart#readme"
+}
